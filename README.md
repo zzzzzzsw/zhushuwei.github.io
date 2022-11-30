@@ -15,7 +15,7 @@
     <a href="sy1-6.html">实验1-6</a>
     <a href="sy2-1.html">实验2-1</a>
     <a href="sy2-2.html">实验2-2</a>
-    <a href="sy2/sy2-3.html">实验2-3</a>
+    <a href="sy2/sy2-3/sy2-3.html">实验2-3</a>
     <a href="sy2-4.html">实验2-4</a>
 </body>
 </html>
