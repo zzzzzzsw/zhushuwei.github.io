@@ -8,7 +8,7 @@
   <h1 align="center">这里是朱姝威的个人主页</h1>
   <h2 align="left">作业展示</h2>
     <a href="sy1-1.html">实验1-1</a>
-    <a href="sy1-2.html">实验1-2</a>
+    <a href="sy1/sy1-2.html">实验1-2</a>
     <a href="sy1-3.html">实验1-3</a>
     <a href="sy1-4.html">实验1-4</a>
     <a href="sy1-5.html">实验1-5</a>
