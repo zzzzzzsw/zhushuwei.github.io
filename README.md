@@ -2,7 +2,7 @@
 <html>
 <head>
 <meta charset="utf-8">
-<title>用户注册</title>
+<title>我的主页</title>
 </head>
 <body>
   <h1 align="center">这里是朱姝威的个人主页</h1>
