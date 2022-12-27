@@ -42,6 +42,7 @@
 							 <li class="mt-sm-3"><a href="#gallery" class="scroll">Opus</a></li>
 							<li class="mt-sm-3"><a href="#services" class="scroll">Plan</a></li>
 							<li class="mt-sm-3"><a href="#news" class="scroll">Like</a></li>
+							<li class="mt-sm-3"><a href="#work" class="scroll">Homework</a></li>
                             <li class="mt-sm-3"><a href="#contact" class="scroll">Contact</a></li>
                         </ul>
 				</nav>
@@ -55,7 +56,7 @@
                     <h2>朱姝威的个人主页
 					<br>Welcome to my profile！</h2>
 					<p class="banp mt-5">你们好呀！我是一名来自华东交通大学经济统计学专业的大三的学生。我喜欢旅游，听音乐，也爱好拍照记录生活，让我感觉最幸福的事是能够按照自己的节奏安排自己的生活。欢迎来到我的个人主页，了解我的生活和碎碎念~</p>
-					<audio src="sy1-2\EXO - 初雪 [mqms2].mp3" controls="controls">Play a sound</audio>
+					<audio src="sy1-2\EXO - 初雪 [mqms2].mp3" controls="controls">Play a sound</audio><br>
 					<a class="btn btn-primary mt-lg-5 mt-3 agile-link-bnr" href="#services" role="button">Learn More</a>
                 </div>
             </div>
@@ -84,6 +85,8 @@
                 <div class="col-md-6 mt-5 gal-img">
                     <a href="#gal6"><img src="images/g7.jpg" alt="news image" class="img-fluid"></a>
                 </div>
+		<div class="col-md-6 mt-5 gal-img">
+		    <a href="#gal7"><p align="center"><video src="imagee/sp.mp4" controls="controls" width="305"></video></p></a>
             </div>
         </div>
         <!-- popup-->
@@ -137,6 +140,15 @@
             <div class="popup">
                 <img src="images/g7.jpg" alt="Popup Image" class="img-fluid" />
                 <p class="mt-4">和好朋友的探店</p>
+                <a class="close" href="#gallery">&times;</a>
+            </div>
+        </div>
+        <!-- //popup -->
+	<!-- popup-->
+        <div id="gal7" class="pop-overlay animate">
+            <div class="popup">
+                <img src="images/sp.mp4" alt="Popup Image" class="img-fluid" />
+                <p class="mt-4">高三誓师大会</p>
                 <a class="close" href="#gallery">&times;</a>
             </div>
         </div>
@@ -271,6 +283,9 @@
 			<a class="btn btn-primary mt-lg-5 mt-3 agile-link-bnr" href="#about" role="button">Learn More</a>			
 		</div>
 <!-- //news -->
+<!-- Homework -->
+
+<!-- //Homework -->
 <!-- contact -->
 	 <section class="wedo" id="contact">
 			<h3 class="w3_head mb-5">Get In Touch </h3>
