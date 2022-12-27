@@ -40,8 +40,8 @@
 							<li class="active"><a href="index.html">Home</a></li>
 							 <li class="mt-sm-3"><a href="#about" class="scroll">About</a></li>
 							 <li class="mt-sm-3"><a href="#gallery" class="scroll">Opus</a></li>
-							<li class="mt-sm-3"><a href="#services" class="scroll">University</a></li>
-							<li class="mt-sm-3"><a href="#news" class="scroll">plan</a></li>
+							<li class="mt-sm-3"><a href="#services" class="scroll">Plan</a></li>
+							<li class="mt-sm-3"><a href="#news" class="scroll">Like</a></li>
                             <li class="mt-sm-3"><a href="#contact" class="scroll">Contact</a></li>
                         </ul>
 				</nav>
@@ -55,6 +55,7 @@
                     <h2>朱姝威的个人主页
 					<br>Welcome to my profile！</h2>
 					<p class="banp mt-5">你们好呀！我是一名来自华东交通大学经济统计学专业的大三的学生。我喜欢旅游，听音乐，也爱好拍照记录生活，让我感觉最幸福的事是能够按照自己的节奏安排自己的生活。欢迎来到我的个人主页，了解我的生活和碎碎念~</p>
+					<audio src="sy1-2\EXO - 初雪 [mqms2].mp3" controls="controls">Play a sound</audio>
 					<a class="btn btn-primary mt-lg-5 mt-3 agile-link-bnr" href="#services" role="button">Learn More</a>
                 </div>
             </div>
@@ -144,7 +145,7 @@
 <!-- services -->
 			<section class="slide-wrapper" id="services">
                     <div class="services">
-					<h3 class="w3_head mb-5">My University</h3>
+					<h3 class="w3_head mb-5">2023的计划</h3>
 					<div class="row service_w3top mt-5">
                                 <div class="col-lg-6">
                                     <div class="d-flex services-box">
@@ -153,9 +154,9 @@
                                         </div>
                                         <!-- .Icon ends here -->
                                         <div class="service-content">
-                                            <h4>Inagittis Lacg</h4>
+                                            <h4>考研</h4>
                                             <p>
-                                                Quisque sagittis lacus eu lorem sodalesd vulputate velitdipisc inagittis lacg enean adipiscing.
+                                                2023年最重要的事就是上岸
                                             </p>
                                         </div>
                                         <!-- .Service-content ends here -->
@@ -168,9 +169,9 @@
                                         </div>
                                         <!-- .Icon ends here -->
                                         <div class="service-content">
-                                            <h4>Velitdipisc Inagittis</h4>
+                                            <h4>旅游</h4>
                                             <p>
-                                                Quisque sagittis lacus eu lorem sodalesd vulputate velitdipisc inagittis lacg enean adipiscing.
+                                                因为疫情一直没能出去玩，年初的愿望是跟好朋友一起去上海
                                             </p>
                                         </div>
                                         <!-- .Service-content ends here -->
@@ -185,9 +186,9 @@
                                         </div>
                                         <!-- .Icon ends here -->
                                         <div class="service-content">
-                                            <h4>Vulputate Velitdipisc</h4>
+                                            <h4>运动</h4>
                                             <p>
-                                                Quisque sagittis lacus eu lorem sodalesd vulputate velitdipisc inagittis lacg enean adipiscing.
+                                                在新的一年里也要坚持运动~
                                             </p>
                                         </div>
                                         <!-- .Service-content ends here -->
@@ -200,9 +201,9 @@
                                         </div>
                                         <!-- .Icon ends here -->
                                         <div class="service-content">
-                                            <h4>Sagittis Lacus</h4>
+                                            <h4>快乐</h4>
                                             <p>
-                                                Quisque sagittis lacus eu lorem sodalesd vulputate velitdipisc inagittis lacg enean adipiscing.
+                                                保持快乐很重要！
                                             </p>
                                         </div>
                                         <!-- .Service-content ends here -->
@@ -221,49 +222,49 @@
 		<!-- news -->
        <div class="news" id="news">
 		<div class="text-left">
-			<h3 class="w3_head mb-5">Recent News</h3>
+			<h3 class="w3_head mb-5">我的喜欢</h3>
 		</div>
 			<div class="row news-grids">
 				<div class="col-lg-6 news-grids-left">
 					<div class="news_top">
 						<img src="images/g1.jpg" alt="news image" class="img-fluid">
-						<h4>Nulla pellentesque</h4>
-						<p class="newsp">Accumsan orci faucibus id eu lorem semper. Eu ac iaculis </p>
+						<h4>喜欢的明星</h4>
+						<p class="newsp">exo，从13岁到现在，陪伴了我整个青春。</p>
 					</div>
 				</div>
 				<div class="col-lg-6 news-grids-middle">
 					<div class="news_top">
 						<img src="images/g8.jpg" alt="news image" class="img-fluid">
-						<h4>Nulla pellentesque</h4>
-						<p class="newsp">Accumsan orci faucibus id eu lorem semper. Eu ac iaculis </p>
+						<h4>喜欢的电影</h4>
+						<p class="newsp">《垫底辣妹》，有志者，事竟成。</p>
 					</div>
 				</div>
 				<div class="col-lg-6 news-grids-right">
 					<div class="news_top">
 						<img src="images/g9.jpg" alt="news image" class="img-fluid">
-						<h4>Nulla pellentesque</h4>
-						<p class="newsp">Accumsan orci faucibus id eu lorem semper. Eu ac iaculis </p>
+						<h4>喜欢的书</h4>
+						<p class="newsp">《人生海海》，没有完美的人生，不完美才是人生。</p>
 					</div>
 				</div>
 				<div class="col-lg-6 news-grids-right">
 					<div class="news_top">
 						<img src="images/g10.jpg" alt="news image" class="img-fluid">
-						<h4>Nulla pellentesque</h4>
-						<p class="newsp">Accumsan orci faucibus id eu lorem semper. Eu ac iaculis </p>
+						<h4>最喜欢的音乐</h4>
+						<p class="newsp">《初雪》</p>
 					</div>
 				</div>
 				<div class="col-lg-6 news-grids-right">
 					<div class="news_top">
 						<img src="images/g11.jpg" alt="news image" class="img-fluid">
-						<h4>Nulla pellentesque</h4>
-						<p class="newsp">Accumsan orci faucibus id eu lorem semper. Eu ac iaculis </p>
+						<h4>最喜欢的动物</h4>
+						<p class="newsp">狗狗</p>
 					</div>
 				</div>
 				<div class="col-lg-6 news-grids-right">
 					<div class="news_top">
 						<img src="images/g12.jpg" alt="news image" class="img-fluid">
-						<h4>Nulla pellentesque</h4>
-						<p class="newsp">Accumsan orci faucibus id eu lorem semper. Eu ac iaculis </p>
+						<h4>最喜欢的事</h4>
+						<p class="newsp">拍照记录生活</p>
 					</div>
 				</div>
 			</div>
@@ -294,28 +295,27 @@
 				<h3 class="w3_head mb-5">Locate Us </h3>
 					<ul class="footer-bottom-list">
 							<li>
-								<span class="fa fa-map-marker"></span> 3481 Honey Street
-								<span> California, USA </span>
+								<span class="fa fa-map-marker"></span> 中楠花苑
+								<span> 宿州, 安徽 </span>
 								
 							</li>
 							<li>
 								<span class="fa fa-envelope"></span>
-								<a href="mailto:name@example.com"> mail@example.com</a>
+								<a href="mailto:name@example.com"> 1816883605@qq.com</a>
 							</li>
 							<li>
-								<span class="fa fa-phone"></span> +143 367 436 2049 </li>
+								<span class="fa fa-phone"></span> +181 5624 2717 </li>
 							<li>
-								<span class="fa fa-fax"></span> +166 367 808 5055 </li>
+								<span class="fa fa-fax"></span> +181 5624 2717 </li>
 							<li>
 								<span class="fa fa-globe"></span>
-								<a href="#"> www.websitename.com</a>
+								<a href="#">https://zzzzzzsw.github.io/zhushuwei.github.io/</a>
 							</li>
 					</ul>
 				</div>
 			</div>
 			<div class="cpy-right text-left">
-				<p>Copyright &copy; 2019.Company name All rights reserved.<a target="_blank" href="http://sc.chinaz.com/moban/">&#x7F51;&#x9875;&#x6A21;&#x677F;</a>
-
+				<p>@朱姝威的个人网页
 				</p>
 			</div>
 	</section>
